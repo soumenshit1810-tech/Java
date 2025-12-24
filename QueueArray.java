@@ -25,6 +25,7 @@ public class QueueArray {
         q.enqueue(10);
         q.enqueue(20);
         q.enqueue(30);
+        q.enqueue(x: 30)
         q.dequeue();
     }
 }
